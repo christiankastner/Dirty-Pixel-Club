@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Pricing Items </title>
+    <description>Pricing Items  Feed</description>
+    <link></link>
+    <pubDate>Wed, 20 Mar 2024 00:01:30 GMT</pubDate>
+    <atom:link href="/pricing-item/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>AR Video</title>
+            
+            <link>/pricing-item/ar-video/</link>
+            <pubDate>Wed, 20 Mar 2024 00:01:30 GMT</pubDate>
+            <guid>/pricing-item/ar-video/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>8 Light bars</title>
+            
+            <link>/pricing-item/8-light-bars/</link>
+            <pubDate>Wed, 20 Mar 2024 00:01:30 GMT</pubDate>
+            <guid>/pricing-item/8-light-bars/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>30 Foot Light Curtain</title>
+            
+            <link>/pricing-item/30-foot-light-curtain/</link>
+            <pubDate>Wed, 20 Mar 2024 00:01:30 GMT</pubDate>
+            <guid>/pricing-item/30-foot-light-curtain/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>20 Foot Light Curtain</title>
+            
+            <link>/pricing-item/20-foot-light-curtain/</link>
+            <pubDate>Wed, 20 Mar 2024 00:01:30 GMT</pubDate>
+            <guid>/pricing-item/20-foot-light-curtain/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>10 Foot Light Curtain</title>
+            
+            <link>/pricing-item/10-foot-light-curtain/</link>
+            <pubDate>Wed, 20 Mar 2024 00:01:30 GMT</pubDate>
+            <guid>/pricing-item/10-foot-light-curtain/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+  </channel>
+</rss>
