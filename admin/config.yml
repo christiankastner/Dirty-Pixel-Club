@@ -1141,9 +1141,9 @@ collections:
             label: Text
             name: 662edd7b
             widget: string
-          - hint: 'Original text: Syphon, key: -6b802aa3'
+          - hint: 'Original text: Join the Club, key: 179d493b'
             label: Text
-            name: '-6b802aa3'
+            name: 179d493b
             widget: string
           - hint: 'Original text: Let’s bring your ideas , key: 6e80b998'
             label: Text
@@ -1228,14 +1228,14 @@ collections:
             name: '-3fb67dc'
             widget: string
           - hint: >-
-              Original text: {Name} is a creative technology collective that
-              wants to make immersive experiences accessible to all. We
-              specialize in curating live music and events where technology, art
-              and design seamlessly blend together. We want to craft immersive
-              encounters that captivate audiences and leave a lasting
-              impression., key: 5371f355
+              Original text: The Dirty Pixel Club is a creative technology
+              collective that wants to make immersive experiences accessible to
+              all. We specialize in curating live music and events where
+              technology, art and design seamlessly blend together. We want to
+              craft immersive encounters that captivate audiences and leave a
+              lasting impression., key: -604b1641
             label: Text
-            name: 5371f355
+            name: '-604b1641'
             widget: text
           - hint: 'Original text: LEADERSHIP, key: 63fc5ec5'
             label: Text
@@ -1591,9 +1591,9 @@ collections:
             label: Text
             name: '-2c714085'
             widget: string
-          - hint: 'Original text: {Insert Name} has you covered., key: 3c1db8b9'
+          - hint: 'Original text: Dirty Pixel Club has you covered., key: 4e31ff61'
             label: Text
-            name: 3c1db8b9
+            name: 4e31ff61
             widget: string
           - hint: 'Original text: Sparking Joy With , key: -609d05cd'
             label: Text
@@ -1754,36 +1754,6 @@ collections:
             label: Text
             name: 760f76e1
             widget: string
-          - hint: >-
-              Original text: Full service studio for startups and studio, key:
-              -69f3e3bc
-            label: Text
-            name: '-69f3e3bc'
-            widget: string
-          - hint: 'Original text: S, key: 53'
-            label: Text
-            name: '53'
-            widget: string
-          - hint: 'Original text: E, key: 45'
-            label: Text
-            name: '45'
-            widget: string
-          - hint: 'Original text: R, key: 52'
-            label: Text
-            name: '52'
-            widget: string
-          - hint: 'Original text: V, key: 56'
-            label: Text
-            name: '56'
-            widget: string
-          - hint: 'Original text: I, key: 49'
-            label: Text
-            name: '49'
-            widget: string
-          - hint: 'Original text: See this project, key: 32b7ee64'
-            label: Text
-            name: 32b7ee64
-            widget: string
           - hint: 'Original text: Privacy, key: 5079bb68'
             label: Text
             name: 5079bb68
@@ -1817,6 +1787,36 @@ collections:
             label: Text
             name: '-43ba1153'
             widget: text
+          - hint: >-
+              Original text: Full service studio for startups and studio, key:
+              -69f3e3bc
+            label: Text
+            name: '-69f3e3bc'
+            widget: string
+          - hint: 'Original text: S, key: 53'
+            label: Text
+            name: '53'
+            widget: string
+          - hint: 'Original text: E, key: 45'
+            label: Text
+            name: '45'
+            widget: string
+          - hint: 'Original text: R, key: 52'
+            label: Text
+            name: '52'
+            widget: string
+          - hint: 'Original text: V, key: 56'
+            label: Text
+            name: '56'
+            widget: string
+          - hint: 'Original text: I, key: 49'
+            label: Text
+            name: '49'
+            widget: string
+          - hint: 'Original text: See this project, key: 32b7ee64'
+            label: Text
+            name: 32b7ee64
+            widget: string
           - hint: >-
               Original text: We have a new look and exciting new features! ,
               key: 76eedf30
@@ -2647,19 +2647,6 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-3b6f8a3f'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
             name: '-19769b34'
             widget: object
             fields:
@@ -3154,7 +3141,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '75e7205'
+            name: '-98b86e3'
             widget: object
             fields:
               - name: url

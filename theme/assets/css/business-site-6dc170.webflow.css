@@ -1909,6 +1909,11 @@ blockquote {
   display: inline;
 }
 
+.paragraph-m.centered {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
 .style-guide-gray-background {
   background-color: var(--secondary);
   border-radius: 12px;
@@ -5203,11 +5208,10 @@ blockquote {
 }
 
 .big-text.all-caps {
+  text-align: center;
   text-transform: uppercase;
-  margin-top: 5vh;
-  margin-left: auto;
-  margin-right: auto;
-  font-size: 200px;
+  margin: 5vh auto;
+  font-size: 110px;
   position: absolute;
   bottom: 0%;
   left: auto;
@@ -6819,6 +6823,14 @@ blockquote {
 .image {
   margin-top: auto;
   margin-bottom: auto;
+}
+
+.div-block-3 {
+  height: 100%;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
 
 @media screen and (min-width: 1280px) {

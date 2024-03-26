@@ -19528,7 +19528,7 @@
       init_inspect();
       instanceOf = /* c8 ignore next 6 */
       // FIXME: https://github.com/graphql/graphql-js/issues/2317
-      globalThis.process && globalThis.process.env.NODE_ENV === "production" ? function instanceOf2(value, constructor) {
+      globalThis.process && true ? function instanceOf2(value, constructor) {
         return value instanceof constructor;
       } : function instanceOf3(value, constructor) {
         if (value instanceof constructor) {
